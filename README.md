@@ -37,3 +37,5 @@ Planeerimine: Määratleti projekti eesmärgid ja jaotati ülesanded (nt elektro
 Prototüüpimine: Ehitasime vooluringi Breadboardil ja testisime IR-signaale.
 Programmeerimine: Kirjutasime koodi kahes osas (saatja ja vastuvõtja).
 Testimine: Kontrollisime signaali edastust ja dekodeerimise täpsust.
+
+
