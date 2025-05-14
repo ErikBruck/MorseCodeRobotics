@@ -38,4 +38,4 @@ Prototüüpimine: Ehitasime vooluringi Breadboardil ja testisime IR-signaale.
 Programmeerimine: Kirjutasime koodi kahes osas (saatja ja vastuvõtja).
 Testimine: Kontrollisime signaali edastust ja dekodeerimise täpsust.
 
-
+Illustreerivad pildid skeemist on lisatud png failidena repositooriumi, saatja osa nimi on "Saatja" ja vastuvõtja oma "v".
