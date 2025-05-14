@@ -4,7 +4,7 @@ Meeskonnaliikmed: Erik Brück, Kristjan Sarv, Hannes Väster, Kaspar Merisalu
 
 Projekti Ülevaade:
 
-Meie projekt hõlmab morse koodi saatja ja vastuvõtja loomist Arduino R4 mikrokontrolleri abil. Saatja kodeerib kasutaja sisestatud teksti morse koodiks ja edastab selle IR-signaalina. Vastuvõtja dekodeerib IR-signaali morse koodiks ja kuvab tõlgitud teksti LCD-ekraanil. Projekt on loodud robootika tunni raames neljaliikmelisele meeskonnale.
+Meie projekt hõlmab morse koodi saatja ja vastuvõtja loomist Arduino R4 mikrokontrolleri abil. Saatja kodeerib kasutaja sisestatud teksti morse koodiks ja edastab selle IR-signaalina. Vastuvõtja dekodeerib IR-signaali morse koodiks ja kuvab tõlgitud teksti LCD-ekraanil. Projekt on loodud robootika tunni raames neljaliikmelisele meeskonnale. Hetkel testitud pikim töötav vahemaa koodi saatmiseks on 6 meetrit.(Klassis ei olnud rohkem ruumi ja meie ülesehitus usb-toitega ei võimaldanud meil kaugemale testima minna).
 
 Eesmärk: Kodeerida tekst morse koodiks ja edastada see IR-signaalina.
 Vastuvõtjal dekodeerida IR-signaal ja kuvada tulemus LCD-ekraanil.
