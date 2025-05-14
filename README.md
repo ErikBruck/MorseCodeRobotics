@@ -45,6 +45,6 @@ Illustreerivad pildid skeemist on lisatud png failidena repositooriumi, saatja o
 # Ühendusskeemid
   
 ## Saatja
-![Alt text](Saatja.png)
+![Alt text](Skeemid/Saatja.png)
 ## Vastuvõtja
-![Alt text](Vastuvõtja.png)
+![Alt text](Skeemid/Vastuvõtja.png)
